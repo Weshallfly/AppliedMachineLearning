@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/chaud/OneDrive/Desktop/Applied%20ML/Assignment_2/mlruns/137313763016162050/cc6b797982664e2e970f1c6f1e239d46/artifacts
+end_time: 1741113413784
+entry_point_name: ''
+experiment_id: '137313763016162050'
+lifecycle_stage: active
+run_id: cc6b797982664e2e970f1c6f1e239d46
+run_name: Random Forest
+run_uuid: cc6b797982664e2e970f1c6f1e239d46
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741113394308
+status: 3
+tags: []
+user_id: chaud

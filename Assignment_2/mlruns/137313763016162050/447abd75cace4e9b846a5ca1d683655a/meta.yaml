@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/chaud/OneDrive/Desktop/Applied%20ML/Assignment_2/mlruns/137313763016162050/447abd75cace4e9b846a5ca1d683655a/artifacts
+end_time: 1741113427577
+entry_point_name: ''
+experiment_id: '137313763016162050'
+lifecycle_stage: active
+run_id: 447abd75cace4e9b846a5ca1d683655a
+run_name: SVM
+run_uuid: 447abd75cace4e9b846a5ca1d683655a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741113413790
+status: 3
+tags: []
+user_id: chaud

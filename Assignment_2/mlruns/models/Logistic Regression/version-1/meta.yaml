@@ -1,0 +1,16 @@
+aliases: []
+creation_timestamp: 1741113394284
+current_stage: None
+description: null
+last_updated_timestamp: 1741113394284
+name: Logistic Regression
+run_id: 6610e400324646e1ba9f67f072efceeb
+run_link: null
+source: file:///C:/Users/chaud/OneDrive/Desktop/Applied%20ML/Assignment_2/mlruns/137313763016162050/6610e400324646e1ba9f67f072efceeb/artifacts/Logistic
+  Regression
+status: READY
+status_message: null
+storage_location: file:///C:/Users/chaud/OneDrive/Desktop/Applied%20ML/Assignment_2/mlruns/137313763016162050/6610e400324646e1ba9f67f072efceeb/artifacts/Logistic
+  Regression
+user_id: null
+version: 1

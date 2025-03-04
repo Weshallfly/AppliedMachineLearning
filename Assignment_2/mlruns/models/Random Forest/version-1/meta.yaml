@@ -1,0 +1,16 @@
+aliases: []
+creation_timestamp: 1741113413765
+current_stage: None
+description: null
+last_updated_timestamp: 1741113413765
+name: Random Forest
+run_id: cc6b797982664e2e970f1c6f1e239d46
+run_link: null
+source: file:///C:/Users/chaud/OneDrive/Desktop/Applied%20ML/Assignment_2/mlruns/137313763016162050/cc6b797982664e2e970f1c6f1e239d46/artifacts/Random
+  Forest
+status: READY
+status_message: null
+storage_location: file:///C:/Users/chaud/OneDrive/Desktop/Applied%20ML/Assignment_2/mlruns/137313763016162050/cc6b797982664e2e970f1c6f1e239d46/artifacts/Random
+  Forest
+user_id: null
+version: 1

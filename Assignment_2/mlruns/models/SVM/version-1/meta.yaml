@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1741113427559
+current_stage: None
+description: null
+last_updated_timestamp: 1741113427559
+name: SVM
+run_id: 447abd75cace4e9b846a5ca1d683655a
+run_link: null
+source: file:///C:/Users/chaud/OneDrive/Desktop/Applied%20ML/Assignment_2/mlruns/137313763016162050/447abd75cace4e9b846a5ca1d683655a/artifacts/SVM
+status: READY
+status_message: null
+storage_location: file:///C:/Users/chaud/OneDrive/Desktop/Applied%20ML/Assignment_2/mlruns/137313763016162050/447abd75cace4e9b846a5ca1d683655a/artifacts/SVM
+user_id: null
+version: 1

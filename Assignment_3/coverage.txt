@@ -1,8 +1,8 @@
-I ran the following code to generate the report:
+Test-command used:
 
 py.test --cov-report term --cov=. test.py > coverage.txt
 
-This was my output:
+Output:
 
 ============================= test session starts ==============================
 platform linux -- Python 3.10.12, pytest-8.1.1, pluggy-1.4.0

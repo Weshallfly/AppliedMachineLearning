@@ -1,0 +1,18 @@
+#!/bin/bash
+
+# Run test.py script
+python test.py
+
+# If the test fails, prevent the commit
+if [ $? -ne 0 ]; then
+    echo "Tests failed. Commit aborted."
+    exit 1
+fi
+
+# To use this pre-commit hook:
+# 1. Clone a repository or navigate to an existing repository.
+# 2. Place this file in the .git/hooks directory of the repository.
+# 3. Make sure the file is named "pre-commit" (without any file extension).
+# 4. Ensure the file has execute permission by running:
+#    chmod +x .git/hooks/pre-commit
+# 5. Now, every time you commit changes to the repository, the test.py script will be automatically executed.
